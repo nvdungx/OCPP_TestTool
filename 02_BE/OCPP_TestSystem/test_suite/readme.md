@@ -1,0 +1,1 @@
+web base test suites module (test profile, test case, precondition, test behavior, post condition)
